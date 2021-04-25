@@ -2,7 +2,7 @@
 
 I am a Mechatronic Engineer, this means that I have knowledge on mechanics, electronics, computation, and how to integrate them all to create something ... 🤖🤖🤖? 
 
-<a href='https://jearizaa.github.io/CVWeb/'>My page</a>
+<a href='https://jearizaa.github.io/CVWeb/' target='_blank'>My page</a>
 
 <img src='https://www.analyticsindiamag.com/wp-content/uploads/2019/06/tony-stark.gif'>
 
