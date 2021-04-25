@@ -2,7 +2,7 @@
 
 I am a Mechatronic Engineer, this means that I have knowledge on mechanics, electronics, computation, and how to integrate them all to create something ... 🤖🤖🤖? 
 
-<img src='https://www.analyticsindiamag.com/wp-content/uploads/2019/06/tony-stark.gif'>
+<p style='text-align:center;'><img src='https://www.analyticsindiamag.com/wp-content/uploads/2019/06/tony-stark.gif'></p>
 
 But my curiosity does not end there, I do believe that the future is interdisciplinary, so I'm looking to collaborate on any other fields such as biology, biomechanics, medicine, psychology, law, security and so on. You will find different repositories with code for different fields of work.
 
