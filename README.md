@@ -8,7 +8,7 @@ But my curiosity does not end there, I do believe that the future is interdiscip
 
 I am currently learning web development, with a future increasengly connected to the internet, this for me was the obvious step to take. The goal is to be a Full Stack web developer and be able to deploy any future project on the internet.
 
-You can reach me by email or linkedin with the same user <b>@jearizaa</b>.
+You can reach me by email or <a href='https://www.linkedin.com/in/jearizaa/'>linkedin</a> with the same user <b>@jearizaa</b>.
 
 <a href='https://jearizaa.github.io/CVWeb/' target='_blank'>My page</a>
 
