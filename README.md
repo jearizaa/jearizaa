@@ -1,6 +1,6 @@
 <h1>Hi, I am Julian</h1>
 
-I am a Mechatronic Engineer, this means that I have knowledge on mechanics, electronics, computation, and how to integrate them all to create something ... 🤖🤖🤖? 
+I am a Mechatronic Engineer, this means that I have knowledge on mechanics, electronics, computation, and how to integrate them all to create technology ... 🤖🤖🤖? 
 
 <p style='text-align:center;'><img src='https://www.analyticsindiamag.com/wp-content/uploads/2019/06/tony-stark.gif'></p>
 
